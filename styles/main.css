@@ -1,0 +1,19 @@
+.contenedor-perfil{
+    border-radius: 10px; 
+    border: 2px solid black;
+}
+.imagen-perfil{
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50px;
+}
+p {
+    padding-left: 10px;
+}
+h4 {
+    padding-left: 10px;
+}
+ul li{
+    font-size: x-large;
+    color: blue;
+}

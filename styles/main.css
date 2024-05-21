@@ -3,6 +3,9 @@
     border: 2px solid black;
 }
 .imagen-perfil{
+    position: relative;
+    left: 50%;
+    margin-left: -50px;
     width: 100px; 
     height: 100px; 
     border-radius: 50px;
@@ -14,6 +17,13 @@ h4 {
     padding-left: 10px;
 }
 ul li{
-    font-size: x-large;
-    color: blue;
+    align-self: center;
+    font-size: medium;
+    color:black;
+    font-family:fantasy;
+}
+div p{
+    font-family: monospace;
+    text-align: center;
+    font-style: italic;
 }
